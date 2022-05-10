@@ -1,0 +1,36 @@
+el factorial de un numero entero positivo es el producto de todos los enteros positivos desde 1 hasta él.
+
+
+	0, 1, 2, 3, 4, 5, 6,...
+
+	el factorial de un numero se escribe  asi:   N! --->  ejemplo (5!)
+	no existe fracciones factorial
+ ejemplo;  5! = 5.4.3.2.1= 120
+ ejemplo;  4! = 4.3.2.1=24
+ ejemplo ; 3! = 3.2.1=6
+ ejemplo ; 2! = 2.1= 2
+
+por definicion:  	(importante)
+ ejemplo ; 1! = 1
+ ejemplo ; 0! = 1
+
+  		PROPIEDAD 2  DE FACTORIAL (importante)
+
+si tenemos n factoerial lo podemos escribir como .. N! = N.(N-1)!
+
+es decir .. por ejemplo
+6! = 6.5.4.3.2.1    ó    6! = 6.5!  (es lo mismo)
+
+
+ejemplo: 
+
+20! = 20.19!
+20! = 20.19.18!
+
+
+
+
+
+
+
+

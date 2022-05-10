@@ -1,0 +1,40 @@
+ejemplo:
+en una clase de 30 estudiantes se desea seleccionar presidente
+y secrretario  ¿cuantos comites diferentres se puede formar ?
+
+conceptos fundamentales en la comvinacion:
+*POBLACION (n).............30 (total de alumno)
+* MUESTRA (y).................2  (los que van a ser seleccionados)
+*¿IMPORTA EL ORDEN?   si 
+*¿SE PUEDE REPETIR?    no
+
+°en este caso si importa el orden porque los cargos que ejercen son diferentes 
+
+°siempre que los seleccionados vayan a hacer cosas diferentes  entonces si importa el orden (el que es presidente no puede ser secretario porque son tareas distintas a ejecutar)
+
+°en este caso no se puede repetir por que el que es presidente no puede ser secretario al mismo tiempo 
+
+
+	 EJEMPLO 2:
+de un grupo de 10 estufiante se quiere seleccionar un comite de 3 estudintes '¿de cuantas dormas direfenes se puede seleccionar el comite ?
+
+*POBLACION (n) 		10 
+*MUESTRA    (y) 		 3
+*¿IMPORTA EL ORDEN?	NO()
+*¿SE PUEDE REPETIR?	NO()
+
+ejercitacion:
+
+en una heladeria ofrecen 7 diferentes sabores para escoger
+¿cuantas combinaciones de helado de 3 bochas se pueden hacer?
+
+*POBLACION	       7  (son los sabores)
+*MUETRA		        3 (los que se pueden seleccionar
+*¿IMPORTA EL ORDEN-.-..NO (porque si elige frt banan y chocolate , el orden no importa)  
+*SE PUEDE REPETIR .......SI    (porque si elige chocolate pueden ser los tres de chocolate).
+
+
+
+
+
+
